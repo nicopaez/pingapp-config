@@ -1,0 +1,5 @@
+{
+  "key1" : "some value - test",
+  "key2" : "some other value - test",
+  "env": "test"
+}
